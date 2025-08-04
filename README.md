@@ -5,7 +5,3 @@
 - section wise ui built
 - added lazy loading for better performance
 - also added foot for extra information reagarding our website
-# Shoppyglobe-E-commerce
-# Shoppyglobe-E-commerce
-# Shoppyglobe-E-commerce
-# Shoppyglobe-
